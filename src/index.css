@@ -90,7 +90,7 @@ section {
   margin-top: auto;
 }
 
-.sold--out{
+.card--badge {
   position: absolute;
   top: 6px;
   left: 6px;
